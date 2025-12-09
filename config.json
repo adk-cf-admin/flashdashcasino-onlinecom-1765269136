@@ -1,0 +1,202 @@
+{
+    "en-GB": {
+        "styles": {
+            "bg": "#0d0d0d",
+            "lang-select-color": "#222829",
+            "bg-light": "#0d0d0d",
+            "welcome-bonus-bg": "#0b0a0a",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#151414",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#201F23",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FFA91B",
+            "yellow": "#201F23",
+            "yellow-button": "#FFA91B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#0d0d0d",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#0d0d0d",
+            "faq-label": "#0d0d0d",
+            "bg-footer": "#0d0d0d",
+            "copyright": "#e7e7d5",
+            "starColor": "#FFA91B",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "FlashDash",
+            "title": "FlashDash Casino | Online Casino with Bonuses, Fast Payouts & Top Games",
+            "description": "Play at FlashDash Casino: thousands of slots, live dealer games, generous bonuses, and instant withdrawals. Licensed, secure, and 24\/7 support. Join today!\n",
+            "canonical": "flashdashcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/926",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "flashdashcasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/927",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/928"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/929",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "FlashDash Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "FlashDash Casino \u2014 Your Ultimate Online Gaming Destination",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/930",
+            "imageSizeModifier": 7,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/931",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "Some text before list",
+            "items": [
+                "Instant cryptocurrency withdrawals without delays.",
+                "Huge selection of slots and live games.",
+                "Generous bonuses up to 1150% + free spins.",
+                "No wagering bonus",
+                "Supports Bitcoin, Ethereum and fiat currencies.",
+                "Handy mobile app for iOS and Android.",
+                "Transparent VIP program with exclusive rewards.",
+                "High-level security and SSL encryption."
+            ],
+            "advantagesAfterText": "FlashDash combines innovation and convenience, offering fast payouts, a vast game library, and strong data protection. It\u2019s the perfect choice for crypto casino fans and mobile gamers.\n",
+            "knowMore": "Know more",
+            "appTitle": "FlashDash App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/932",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "FlashDash App",
+            "mobileGooglePlayImageTitle": "FlashDash App",
+            "mobileIosImageTitle": "FlashDash App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About FlashDash",
+                "description1": "FlashDash focuses on generous bonuses and massive jackpots, giving players real chances for huge payouts.\n",
+                "items": [
+                    "Bonus up to 1150% on first deposits.",
+                    "Jackpots up to $1,000,000.",
+                    "Daily promos with big wins."
+                ],
+                "description2": "FlashDash Casino is a modern online gaming platform. It offers a wide selection of slots, table games, and live casino options. The website interface is user-friendly and optimized for all devices. The casino ensures secure transactions and player data protection. Users enjoy fast payouts and smooth performance. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/933",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "A loyalty program rewards regular players with exclusive benefits. Registration is simple and takes only a few minutes. Customer support is available 24\/7 to assist with any issues. The platform frequently hosts promotions and tournaments for active players. FlashDash combines reliability, convenience, and an engaging gaming experience."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "FlashDash Casino \u2014 a new level of online gaming",
+                "description": "<p>\nFlashDash Casino is a modern online platform designed for those who value excitement, convenience, and security. The casino delivers a unique experience by combining innovative technology with classic gameplay. Here, every player can find entertainment to suit their taste \u2014 from vibrant slots to thrilling live dealer games.\n<\/p>\n<br>\n<p>\nOne of FlashDash\u2019s main strengths is its accessibility and ease of use. The website interface is intuitive, and the mobile version allows players to enjoy gaming anytime, anywhere. The platform guarantees secure transactions and protects personal data using advanced encryption technologies.\n\n<\/p>\n<br>\n<p>\nFlashDash focuses on speed and quality of service. Fast payouts, 24\/7 support, and transparent conditions make gaming comfortable and safe. A loyalty program and regular promotions create additional opportunities for winnings, encouraging players to return again and again.\n\n<\/p>\n<br>\n<p>\nThe casino also offers a wide variety of games from leading global providers. This ensures high-quality graphics, fair results, and an engaging gaming experience. FlashDash continuously updates its collection, adding new slots and exclusive offers for its users.\n\n<\/p>\n<br>\n<p>\nBy choosing FlashDash, players gain access not just to games but to a world of emotions, bonuses, and opportunities. It\u2019s a platform where reliability, innovation, and enjoyment come together in every bet.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n\nPayment Methods and Currencies at FlashDash Casino\n\n<\/h3>\n\n<p>\nFlashDash Casino offers a wide range of payment options to make deposits and withdrawals as convenient as possible. The platform supports both traditional banking solutions and modern digital technologies. Available methods include bank cards, e-wallets, and cryptocurrencies, allowing every user to choose the most suitable option.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to cryptocurrency transactions. FlashDash accepts popular digital assets such as Bitcoin, Ethereum, Litecoin, and others. This ensures instant transfers, minimal fees, and a high level of privacy. For those who prefer classic methods, payments via Visa, MasterCard, and popular e-wallet systems are also available.\n\n<\/p>\n<br>\n<p>\nThe casino\u2019s currency policy is equally flexible. Players can use both fiat currencies and cryptocurrencies, making the platform accessible to users worldwide. Multi-currency support helps avoid unnecessary conversions and additional costs.\n\n<\/p>\n<br>\n<p>\nFlashDash guarantees the security of all financial operations through advanced encryption technologies and strict data protection standards. This means every deposit and withdrawal is processed quickly and reliably, allowing players to focus on the game without worrying about the safety of their funds.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for visiting FlashDash Casino: conditions and prohibitions\n<\/h3>\n\n<p>\nFlashDash Casino follows strict rules to ensure a safe and comfortable gaming environment for all users. The primary requirement is meeting the legal age set by the player\u2019s country of residence. Registration is only possible with accurate personal and contact information. The casino enforces fair play principles and prohibits the use of third-party software to gain advantages. All financial transactions must be processed through official payment methods supported by the platform. Players must respect privacy rules and never share their account details with others. Creating multiple accounts for one user is strictly forbidden. Any attempt at fraud or violation of terms will result in account suspension. FlashDash reserves the right to verify player identity to prevent illegal activities. The platform aims to maintain a fair and transparent atmosphere where everyone can enjoy gaming without risk. Following these rules guarantees safety and comfort for all participants.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions for Access\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nMeeting the minimum legal age requirement.\n\n<\/li>\n            <li>\u2022 \nProviding accurate personal details during registration.\n\n<\/li>\n            <li>\u2022 \nUsing only official payment methods.\n\n<\/li>\n           <li>\u2022 \nAdhering to fair play principles.\n\n\n<\/li>\n       \n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibitions\n\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nCreating multiple accounts per user.\n\n<\/li>\n            <li>\u2022 \nUsing third-party software for winnings.\n\n<\/li>\n       <li>\u2022 \nSharing account credentials with others.\n\n<\/li>\n            <li>\u2022 \nAttempting fraud or rule circumvention.\n\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Security at FlashDash Casino\n\n<\/h3>\n\n<p>\nFlashDash Casino operates under an international license that confirms the legality and transparency of all gaming processes. The license is issued by a reputable regulator, ensuring compliance with strict standards in the online gaming industry. This means the platform functions within the law and provides fair conditions for all users.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to player data protection. All personal information and financial transactions are secured through advanced encryption systems, including SSL protocols. This prevents unauthorized access and guarantees a high level of privacy. FlashDash employs a multi-layered security system to protect accounts from hacking and fraudulent activities.\n\n<\/p>\n<br>\n<p>\nThe casino\u2019s privacy policy clearly regulates data usage. Customer information is used solely for payment processing, service delivery, and improving user experience. The platform does not share personal data with third parties without user consent, adhering to international GDPR standards.\n\n<\/p>\n<br>\n<p>\nIn short, FlashDash ensures reliable protection and transparency in all operations. You can be confident that your data and funds are completely secure, while your gaming experience remains comfortable and fair.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFlashDash Casino Customer Support: Fast and Reliable\n\n<\/h3>\n\n<p>\nFlashDash Casino places great emphasis on providing high-quality customer service, offering several convenient communication channels. Players can contact support via live chat, email, or phone, choosing the most suitable option. Live chat is available directly on the website and ensures instant responses. Email is ideal for detailed inquiries, while the phone line is reserved for urgent situations.\n\n<\/p>\n<br>\n<p>\nResponse time depends on the chosen channel, but in most cases, support reacts as quickly as possible. Live chat operates 24\/7 with an average response time of just a few minutes. Emails are processed within a few hours, and phone support is available during business hours.\n\n<\/p>\n<br>\n<p>\nFlashDash guarantees a high level of service and professionalism. All inquiries are handled carefully, and solutions are provided promptly. Additionally, the platform offers multilingual support, making communication comfortable for players worldwide.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication Channels\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat (24\/7, instant response)\n\n<\/li>\n            <li>\u2022 \nEmail (for detailed inquiries)\n\n<\/li>\n            <li>\u2022 \nPhone (for urgent issues)\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service Features\n\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nFast response times\n\n<\/li>\n            <li>\u2022 \nMultilingual availability\n\n<\/li>\n       <li>\u2022 \nProfessional assistance and personalized approach\n\n<\/li>\n     \n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at FlashDash",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nFlashDash Casino Loyalty Program: bonuses and levels\n<\/h3>\n\n<p>\nThe FlashDash Casino loyalty program is designed to reward active players and make gaming even more profitable. It offers exclusive bonuses, personalized offers, and additional privileges for regular customers. Participation begins immediately after registration, and progress depends on activity and wager amounts. The more you play, the higher your level and the greater the benefits you receive. Each new status unlocks increased bonuses, cashback, and access to a personal manager. The program includes several tiers, starting from the basic level and reaching VIP status with maximum advantages. All bonuses are credited automatically, and the conditions are clear and transparent. FlashDash focuses on generous rewards so every player feels valued. It\u2019s the perfect way to boost your chances of winning and enjoy extra benefits effortlessly.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nSign up on the FlashDash Casino platform.\n\n<\/li>\n            <li>\u2022 \nComplete identity verification (KYC).\n<\/li>\n            <li>\u2022 \nAgree to loyalty program terms.\n\n\n<\/li>\n\n\n<\/li>\n  \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels and How to Reach Them\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic Level \u2014 available immediately after registration.\n\n<\/li>\n            <li>\u2022 \nSilver Level \u2014 achieved by reaching a certain wagering volume.\n\n<\/li>\n            <li>\u2022 \nGold Level \u2014 requires active play and regular deposits.\n\n<\/li>\n           <li>\u2022 \nVIP Level \u2014 invitation-only for the most active players.\n\n\n<\/li>\n       \n   \n  \n        <\/ul><br>\n\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Available Bonuses\n\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nWelcome Bonus \u2014 up to 1150% + 250 free spins.\n\n<\/li>\n            <li>\u2022 \nCashback \u2014 up to 15% weekly.\n\n<\/li>\n       <li>\u2022 \nExclusive Promotions \u2014 extra free spins and deposit bonuses.\n\n<\/li>\n            <li>\u2022 \nPersonal Manager \u2014 for VIP players.\n\n<\/li>\n              <li>\u2022 \nHigher Withdrawal Limits \u2014 for top-tier members.\n\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFlashDash Casino Bonuses and Special Offers\n<\/h3>\n\n<p>\nFlashDash Casino offers a wide range of bonuses and special promotions that make gaming even more exciting. Beyond the standard loyalty program, the platform regularly hosts events, tournaments, and seasonal campaigns. Players can claim extra free spins, deposit bonuses, and participate in big prize draws. Special offers are often linked to popular slots and live dealer games, increasing chances of winning. Seasonal promotions coincide with holidays and major events, offering exclusive rewards. FlashDash also organizes tournaments with prize pools where winners receive substantial cash prizes. All bonuses are available to registered users and are activated automatically or via promo codes. The platform emphasizes transparent conditions and fair play, ensuring every participant enjoys the experience. These offers are a great way to boost your balance and test your luck in new formats.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Bonuses and Promotions\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Package \u2014 up to 1150% + 250 free spins on first deposits.\n\n<\/li>\n            <li>\u2022 \nWeekly Deals \u2014 deposit bonuses up to 200% and 100 free spins.\n\n<\/li>\n            <li>\u2022 \nSlot Tournaments \u2014 prize pools up to $50,000.\n\n<\/li>\n            <li>\u2022 \nLive Casino Bonuses \u2014 cashback up to 15% on dealer games.\n<\/li>\n\t    <li>\u2022 \nSeasonal Events \u2014 holiday promos with prizes up to $10,000.\n\n<\/li>\n\t    <li>\u2022 \nJackpot Draws \u2014 progressive wins up to $1,000,000.\n\n<\/li>\n\t    <li>\u2022 \nPromo Codes \u2014 extra free spins and deposit boosts.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular FlashDash Casino Games: the best entertainment for players\n<\/h3>\n\n<p>\nFlashDash Casino offers a vast selection of games designed to satisfy every player\u2019s taste. The core of its collection consists of modern video slots featuring vibrant graphics and exciting bonus features. For fans of classic gameplay, traditional slots with simple rules and big payouts are available. The casino also provides table games like roulette, blackjack, and poker for those who enjoy strategic play. Special attention is given to live casino games, where players can interact with real dealers in real time. These games create an authentic casino atmosphere and deliver a high level of engagement. FlashDash regularly adds new titles from leading providers to keep the experience fresh. Progressive jackpots are also available, offering chances to win millions. All games are optimized for mobile devices, ensuring convenience and accessibility anywhere. The platform guarantees fairness and transparency through certified random number generators.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular FlashDash Casino Games\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nStarburst \u2014 colorful slot with simple rules and frequent wins.\n\n<\/li>\n            <li>\u2022 \nBook of Dead \u2014 legendary slot with bonus rounds and free spins.\n\n<\/li>\n            <li>\u2022 \nMega Moolah \u2014 progressive jackpot offering million-dollar prizes.\n\n<\/li>\n            <li>\u2022 \nLightning Roulette \u2014 dynamic roulette with multipliers up to x500.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack Live \u2014 classic card game with real dealers.\n\n<\/li>\n\t    <li>\u2022 \nSweet Bonanza \u2014 slot featuring cascading wins and multipliers.\n\n<\/li>\n\t    <li>\u2022 \nTexas Hold\u2019em Poker \u2014 popular poker game for strategy lovers.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at FlashDash Casino\n\n<\/h3>\n\n<p> \nFlashDash Casino offers flexible betting limits so every player can choose a comfortable level of play. Minimum bets are perfect for beginners, while maximum limits cater to high rollers seeking big wins. All games feature transparent rules and clearly defined bet ranges, ensuring a safe and convenient experience. Whether you prefer small stakes or high-limit gaming, FlashDash guarantees fairness and reliability.\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#FFA91B; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac20,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at FlashDash Casino: A Celebration Every Day\n\n<\/h3>\n\n<p>\nFlashDash Casino is not just a place for gaming; it\u2019s a hub for unforgettable experiences and exciting events. The platform regularly hosts special activities that turn gameplay into a true spectacle. These events create a festive atmosphere and make players feel part of an exclusive community.\n\n<\/p>\n<br>\n<p>\nOne of the highlights is themed parties and seasonal promotions. These are tied to holidays such as New Year, Halloween, or summer festivals and come with unique bonuses, raffles, and contests. Players can join tournaments with large prize pools, where winners receive not only cash rewards but also exclusive gifts.\n\n<\/p>\n<br>\n<p>\nFlashDash also offers entertainment shows in the live casino format. These are games with real dealers streamed from professional studios, creating an authentic casino vibe. Some events include interactive quizzes, prize draws, and special rounds with boosted multipliers.\n\n<\/p>\n<br>\n<p>\nAdditionally, the platform organizes VIP events for its most active players. These private promotions feature personalized bonuses, access to exclusive games, and dedicated account managers. Such events emphasize prestige and make the gaming experience truly luxurious.\n\n<\/p>\n<br>\n<p>\nFlashDash combines excitement, entertainment, and social interaction to ensure every visit feels special. Here, gaming becomes a celebration, and every event is an opportunity to win big and enjoy new emotions.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFlashDash Casino Entertainment and Events\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nThemed Parties \u2014 holiday bonuses and promotions (New Year, Halloween).\n<\/li>\n            <li>\u2022 \nSeasonal Tournaments \u2014 prize pools up to $50,000.\n\n<\/li>\n            <li>\u2022 \nLive Dealer Shows \u2014 interactive games with boosted multipliers.\n\n<\/li>\n            <li>\u2022 \nQuizzes and Contests \u2014 free spins and deposit bonus giveaways.\n<\/li>\n\t    <li>\u2022 \nVIP Events \u2014 personalized offers, exclusive games, and gifts.\n\n<\/li>\n\t    <li>\u2022 \nJackpot Draws \u2014 progressive wins up to $1,000,000.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at FlashDash Casino\n\n<\/h3>\n\n<p>\nFlashDash Casino offers convenient and secure withdrawal methods to ensure players receive their winnings quickly. The platform supports both traditional banking options and modern digital solutions. Available methods include bank cards, e-wallets, and cryptocurrencies, each with specific processing times and limits, allowing players to choose the most suitable option.\n<\/p>\n<br>\n<p>\nPayout speed depends on the chosen method. Cryptocurrency transactions are processed almost instantly, usually within 10\u201330 minutes. E-wallet withdrawals take about 1\u201312 hours, while bank cards require more time \u2014 from 1 to 3 business days. FlashDash guarantees transparency in all operations and keeps players informed about transaction status.\n<\/p>\n<br>\n<p>\nProcessing times include identity verification (KYC), which is essential for security and fraud prevention. After account verification, subsequent withdrawals are much faster. The platform also sets withdrawal limits to maintain financial stability.\n\n<\/p>\n<br>\n<p>\nLimits vary depending on the player\u2019s level and payment method. The minimum withdrawal amount is usually $10\u2013$20, while the maximum can reach $20,000 per day for VIP players. FlashDash ensures the process is as convenient as possible while maintaining high security and speed.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods and Times\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nCryptocurrencies (Bitcoin, Ethereum, Litecoin) \u2014 10\u201330 minutes.\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller) \u2014 1\u201312 hours.\n\n<\/li>\n            <li>\u2022 \nBank Cards (Visa, MasterCard) \u2014 1\u20133 business days.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Times\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nInitial identity verification (KYC) \u2014 up to 24 hours.\n\n<\/li>\n            <li>\u2022 \nSubsequent withdrawals \u2014 faster, no delays.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Limits\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum withdrawal \u2014 from $10\u2013$20.\n\n<\/li>\n            <li>\u2022 \nMaximum withdrawal \u2014 up to $20,000 per day (VIP).\n\n<\/li>\n\n        <\/ul><br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How can I verify game fairness?",
+                    "answer": "All games use certified Random Number Generators (RNG), and the platform operates under an international license.\n"
+                },
+                {
+                    "title": "Can I set limits on my play?",
+                    "answer": "Yes, you can set deposit, bet, and time limits in your account settings for responsible gaming.\n"
+                },
+                {
+                    "title": "What should I do if I have withdrawal issues?",
+                    "answer": "Contact customer support via chat, email, or phone. Most issues are resolved within 24 hours.\n"
+                },
+                {
+                    "title": "Is there a demo mode for games?",
+                    "answer": "Yes, most slots and table games are available in demo mode without any risk.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/934",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "FlashDash"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-GB",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
